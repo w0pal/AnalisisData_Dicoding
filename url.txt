@@ -1,1 +1,1 @@
-https://
+https://dataanalysis-submission-dicoding-w0pal.streamlit.app/
